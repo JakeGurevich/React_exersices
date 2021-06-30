@@ -1,0 +1,18 @@
+.strike {
+  text-decoration: line-through;
+}
+.color {
+  color: blue;
+}
+li {
+  color: rgb(78, 5, 20);
+  list-style: none;
+}
+.wrap {
+  display: flex;
+  flex-direction: column;
+}
+a {
+  text-decoration: none;
+  margin-top: 10px;
+}

@@ -1,0 +1,31 @@
+ * {
+     box-sizing: border-box;
+ }
+.green {
+    border: 10px solid green;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+}
+.blue {
+    border: 10px solid blue;
+    width: 180px;
+    height: 80px;
+}
+.pink
+{
+    border: 10px solid pink;
+    width: 160px;
+    height: 60px; 
+    background: pink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.purple {
+    background-color: purple;
+    width: 80px;
+    height: 35px;
+    margin: 2px;
+}
